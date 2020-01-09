@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/react-reddit/static/css/main.d1b05096.chunk.css",
-    "main.js": "/react-reddit/static/js/main.2ae366b2.chunk.js",
-    "main.js.map": "/react-reddit/static/js/main.2ae366b2.chunk.js.map",
+    "main.js": "/react-reddit/static/js/main.af94a99e.chunk.js",
+    "main.js.map": "/react-reddit/static/js/main.af94a99e.chunk.js.map",
     "runtime-main.js": "/react-reddit/static/js/runtime-main.25cd627b.js",
     "runtime-main.js.map": "/react-reddit/static/js/runtime-main.25cd627b.js.map",
-    "static/js/2.db3778f8.chunk.js": "/react-reddit/static/js/2.db3778f8.chunk.js",
-    "static/js/2.db3778f8.chunk.js.map": "/react-reddit/static/js/2.db3778f8.chunk.js.map",
+    "static/js/2.84f3b197.chunk.js": "/react-reddit/static/js/2.84f3b197.chunk.js",
+    "static/js/2.84f3b197.chunk.js.map": "/react-reddit/static/js/2.84f3b197.chunk.js.map",
     "index.html": "/react-reddit/index.html",
-    "precache-manifest.59b2ba71aeba26e324b2d763b81641c3.js": "/react-reddit/precache-manifest.59b2ba71aeba26e324b2d763b81641c3.js",
+    "precache-manifest.3283be7997f9b8878e5020c981f240a9.js": "/react-reddit/precache-manifest.3283be7997f9b8878e5020c981f240a9.js",
     "service-worker.js": "/react-reddit/service-worker.js",
     "static/css/main.d1b05096.chunk.css.map": "/react-reddit/static/css/main.d1b05096.chunk.css.map",
-    "static/js/2.db3778f8.chunk.js.LICENSE": "/react-reddit/static/js/2.db3778f8.chunk.js.LICENSE"
+    "static/js/2.84f3b197.chunk.js.LICENSE": "/react-reddit/static/js/2.84f3b197.chunk.js.LICENSE"
   },
   "entrypoints": [
     "static/js/runtime-main.25cd627b.js",
-    "static/js/2.db3778f8.chunk.js",
+    "static/js/2.84f3b197.chunk.js",
     "static/css/main.d1b05096.chunk.css",
-    "static/js/main.2ae366b2.chunk.js"
+    "static/js/main.af94a99e.chunk.js"
   ]
 }
