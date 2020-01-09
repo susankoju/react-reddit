@@ -1,6 +1,6 @@
 {
   "name": "reddit",
-  "homepage": "https://susankoju.github.io/react-people",
+  "homepage": "https://susankoju.github.io/react-reddit",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
