@@ -27,6 +27,15 @@ function withHeader(Component){
                 <option>memes</option>
                 <option>pics</option>
                 <option>comics</option>
+                <option>EarthPorn</option>
+                <option>SkyPorn</option>
+                <option>gaming</option>
+                <option>food</option>
+                <option>MapPorn</option>
+                <option>aww</option>
+                <option>funny</option>
+                <option>meme</option>
+                <option>anime</option>
               </select>
               <label style={{margin: "0px 5px 0px 25px"}}>Post Count: </label>
               <input style={{width: "5em"}} onChange={(e)=>onChangeHandler(e,props.setPostCount)} type="number" value={props.postCount}/>
