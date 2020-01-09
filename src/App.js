@@ -10,8 +10,9 @@ function withHeader(Component){
       <div>
         <header style={{position: "fixed", background:"white", width: "100%", padding:"0.5em"}}>
           <div style={{width:"80%", margin: "0px auto", height: "2.25em"}}>
-            <a href="/"  style={{textDecoration:"none"}}>
-              <img height="100%" src="./images/2hEsLbAZ-eaoVJ-zZOqEz8DWCtnDgMR88TmJ-mxWoTc.png" alt="Reddit"/> <span style={{color: "rgb(254,69,0)", padding: "10px"}}>Reddit Image Board</span>
+            <a style={{position: "relative"}} href="/"  style={{textDecoration:"none"}}>
+              <img height="100%" src="./images/2hEsLbAZ-eaoVJ-zZOqEz8DWCtnDgMR88TmJ-mxWoTc.png" alt="Reddit"/> 
+              <span style={{color: "rgb(254,69,0)", position: "absolute", padding: "0.5em"}}>Reddit Image Board</span>
             </a>
             <div style={{margin:"0.5em", float:"right", color: "grey"}}>
               
